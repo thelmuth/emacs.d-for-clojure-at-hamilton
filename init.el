@@ -38,7 +38,7 @@
 
 
 ;; Define he following variables to remove the compile-log warnings
-;; when defining ido-ubiquitous
+;; when defining ido-completing-read+
 (defvar ido-cur-item nil)
 (defvar ido-default-item nil)
 (defvar ido-cur-list nil)
